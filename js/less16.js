@@ -34,5 +34,4 @@ const logger = function() {
 };
 logger();
 
-
 const calc = (a, b) => a + b;
